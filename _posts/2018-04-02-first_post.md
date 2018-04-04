@@ -35,7 +35,7 @@ fork 를 완료하면 내 repository 목록에 생기게 되고 , 여기서 중�
 
 5분 가량을 기다리면 아래와 같은 화면이 나오면서 hosting + theme 적용이 완료된다.
 
-![generate_complete](https://Minwoo-kang.github.io/assets/images/generate_complete.png)
+![generate_complete]({{ site.url }}/assets/images/generate_complete.PNG)
 
 
 적용이 완료되었다면 , 해당 링크로 가서 자신의 첫 github 블로그를 즐겨보자.
