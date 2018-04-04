@@ -110,38 +110,40 @@ Gemfile을 설정했으면 Gemfile이 있는 곳으로 이동해 cmd 창을 열�
 >![CP949_error]({{ site.url }}/assets/images/CP949_error.PNG)
 >위 명령어를 사용하면 CP949에러가 발생한다. 해당 에러는 아래와 같은 방법으로 해결하자.<br>
 
-    $chcp 65001<br>
+    $chcp 65001
 
 두 번째로 `_config.yml` 이다.
 
 해당 파일에서 블로그의 Author , Baseurl 등 여러가지를 설정 할 수 있다. 
 
-`_config.yml`파일에 대한 자세한 설정은 [minimal-theme document](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)를 참조하고 아주 심ㅠ플한 부분만 설정하도록 하겠다.<br>
+`_config.yml`파일에 대한 자세한 설정은 [minimal-theme document](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)를 참조하고 아주 심플한 부분만 설정하도록 하겠다.<br>
 
 
 **Site settings**
 
+국가 , 블로그 이름 등을 설정 할 수 있다.
+
 
 ![site_setting](https://Minwoo-kang.github.io/assets/images/site_setting.PNG)
 
-국가 , 블로그 이름 등을 설정 할 수 있다.
+
 
 
 **Site Author**
 
+블로그의 좌측에 나타나는 블로그 주인에 대한 설정을 할 수 있다.
 
 ![site_author](https://Minwoo-kang.github.io/assets/images/site_author.PNG)
 
-블로그의 좌측에 나타나는 블로그 주인에 대한 설정을 할 수 있다.
 
 
 **Defaults**
 
+그 외의 Navigation 설정 , comment 설정은 많은 자료들을 참조하도록하자. 
+
 
 ![site_default](https://Minwoo-kang.github.io/assets/images/site_default.PNG)
 
-
-그 외의 Navigation 설정 , comment 설정은 많은 자료들을 참조하도록하자. 
 
 
 > 주의 , 기술적인 문제로 `_config.yml`파일에 대한 수정 사항은 서버를 re-run해야 적용된다. 그러니 cmd창을 열어 프로세스를 종료하고 다시 실행하도록하자.
