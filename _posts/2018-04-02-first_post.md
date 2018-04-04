@@ -26,16 +26,16 @@ Minimal 테마를 적용하고 블로그를 호스팅하기 위해서 해야 할
 
 테마를 적용하기 위해 [Minimal Repository](https://github.com/mmistakes/minimal-mistakes)로 이동해 fork를 활용하자.
 
-![github_fork]({{ site.url }}/assets/images/fork.png)
+![github_fork](https://Minwoo-kang.github.io/assets/images/fork.png)
 
 fork 를 완료하면 내 repository 목록에 생기게 되고 , 여기서 중요한점은 fork 된 repository의 이름을 `Yourusername.github.io`형태로 바꿔야 한다. 
 
-![github_rename]({{ site.url }}/assets/images/rename.png)
+![github_rename](https://Minwoo-kang.github.io/assets/images/rename.png)
 
 
 5분 가량을 기다리면 아래와 같은 화면이 나오면서 hosting + theme 적용이 완료된다.
 
-![generate_complete]({{ site.url }}/assets/images/generate_complete.png)
+![generate_complete](https://Minwoo-kang.github.io/assets/images/generate_complete.png)
 
 
 적용이 완료되었다면 , 해당 링크로 가서 자신의 첫 github 블로그를 즐겨보자.
@@ -122,7 +122,7 @@ Gemfile을 설정했으면 Gemfile이 있는 곳으로 이동해 cmd 창을 열�
 **Site settings**
 
 
-![site_setting]({{ site.url }}/assets/images/site_setting.png)
+![site_setting](https://Minwoo-kang.github.io/assets/images/site_setting.png)
 
 국가 , 블로그 이름 등을 설정 할 수 있다.
 
@@ -130,7 +130,7 @@ Gemfile을 설정했으면 Gemfile이 있는 곳으로 이동해 cmd 창을 열�
 **Site Author**
 
 
-![site_author]({{ site.url }}/assets/images/site_author.png)
+![site_author](https://Minwoo-kang.github.io/assets/images/site_author.png)
 
 블로그의 좌측에 나타나는 블로그 주인에 대한 설정을 할 수 있다.
 
@@ -138,7 +138,7 @@ Gemfile을 설정했으면 Gemfile이 있는 곳으로 이동해 cmd 창을 열�
 **Defaults**
 
 
-![site_default]({{ site.url }}/assets/images/site_default.png)
+![site_default](https://Minwoo-kang.github.io/assets/images/site_default.png)
 
 
 그 외의 Navigation 설정 , comment 설정은 많은 자료들을 참조하도록하자. 
@@ -150,7 +150,7 @@ Gemfile을 설정했으면 Gemfile이 있는 곳으로 이동해 cmd 창을 열�
 세 번째로 , 좌우 여백 설정을 위한 `_saas/minima-mistakes/_variables.scss` 파일이 있다.
 
 
-![grid_setting]({{ site.url }}/assets/images/grid_setting.png)
+![grid_setting](https://Minwoo-kang.github.io/assets/images/grid_setting.png)
 
 
 
@@ -167,7 +167,7 @@ Gemfile을 설정했으면 Gemfile이 있는 곳으로 이동해 cmd 창을 열�
 
 한가지 더 , 포스트의 상단 부분에 아래와 같은 내용을 써넣어줘야 한다.
 
-![post_header]({{ site.url }}/assets/images/post_header.png)
+![post_header](https://Minwoo-kang.github.io/assets/images/post_header.png)
 
 >tags는 opional한 설정이다. tags외에도 categories 등 여러가지 설정이 있으니 document를 참조하자
 
